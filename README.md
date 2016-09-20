@@ -1,5 +1,8 @@
 <img src="https://cloud.githubusercontent.com/assets/7600364/18650480/eb1de40a-7ee2-11e6-9a09-5f15dfa41ecf.png"/>
 
+Project Demo:
+https://www.youtube.com/watch?v=qB12ryYComE
+
 #Required Items
 
 1. Arduino Uno board
